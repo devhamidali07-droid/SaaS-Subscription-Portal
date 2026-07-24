@@ -1,6 +1,6 @@
 # CloudPulse — Enterprise SaaS Landing Page & Subscription Portal
 
-CloudPulse is a full-stack, enterprise-ready SaaS landing page and subscription management portal engineered with Next.js (App Router), Tailwind CSS, and Stripe API integration. It provides a complete end-to-end user acquisition flow—from landing page conversion to checkout, automated onboarding, and active subscription management.
+CloudPulse is a full-stack, enterprise-ready SaaS landing page and subscription management portal engineered with Next.js (App Router), Tailwind CSS, and Stripe API integration. It provides a complete end-to-end user acquisition flow. From landing page conversion to checkout, automated onboarding, and active subscription management.
 
 ### 🚀 Key Features
 * **Dark Mode UI & Clean UX:** Native Tailwind dark theme with an interactive theme switcher.
